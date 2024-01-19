@@ -1,6 +1,11 @@
 
 body{
     background: #cf5fa4;
+    background-image: url('./Assets/Images/image.png');
+    background-repeat: no-repeat;
+    background-size: 55rem;
+    background-position-x: 13rem;
+    background-blend-mode: overlay;
     overflow-x: hidden;
     overflow-y: hidden;
 }
