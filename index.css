@@ -1,4 +1,3 @@
-
 body{
     background: #cf5fa4;
     /*background-image: url('./Assets/Images/image.png');*/
@@ -106,8 +105,8 @@ h2{
     background-color: antiquewhite;
     z-index: 999;
     position: relative;
-    margin-top: -19rem;
-    margin-left: 7rem;
+    margin-top: -20rem;
+    margin-left: 7.5rem;
 }
 
 .theme2{
@@ -119,7 +118,7 @@ h2{
     z-index: 999;
     position: relative;
     margin-top: -28.5rem;
-    margin-left: 27rem;
+    margin-left: 27.5rem;
 }
 
 .theme3{
@@ -130,8 +129,20 @@ h2{
     background-color: antiquewhite;
     z-index: 999;
     position: relative;
-    margin-top: 4rem;
-    margin-left: 46rem;
+    margin-top: 4.5rem;
+    margin-left: 47.5rem;
+}
+
+.theme4 {
+    height: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: antiquewhite;
+    z-index: 999;
+    position: relative;
+    margin-top: -28.5rem;
+    margin-left: 68rem;
 }
 
 svg{
