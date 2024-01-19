@@ -166,10 +166,10 @@ a{
 }
 
 .container1{
-    background-color: #0c0007;
-    height: 1750px;
+    background-color: #000;
+    height: 1930px;
     width: 100%;
-    margin-top: 20rem;
+    margin-top: 0rem;
     display: inline-block;
     overflow: none;
 }
@@ -367,11 +367,45 @@ a{
     margin-left: 30rem;
 }
 
+.s8{
+    height: 230px;
+    border-radius: 190px;
+    position: absolute;
+    margin-left: 62rem;
+    margin-top: -26.5rem; 
+}
+
+.s8c{
+    font-size: 20px;
+    color: aliceblue;
+    position: absolute;
+    z-index: 5;
+    margin-left: 62rem;
+    margin-top: -11.5rem;
+}
+
 .speaker7{
     height: 500px;
     width: 400px;
     margin-top: -31.5rem;
     margin-left: 57rem;
+}
+
+.s9{
+    height: 230px;
+    border-radius: 190px;
+    position: absolute;
+    margin-left: 8rem;
+    margin-top: -7.5rem; 
+}
+
+.s9c{
+    font-size: 20px;
+    color: aliceblue;
+    position: absolute;
+    z-index: 5;
+    margin-left: 11rem;
+    margin-top: 7.5rem;
 }
 
 .speaker8{
@@ -381,11 +415,45 @@ a{
     margin-left: 3rem;
 }
 
+.s10{
+    height: 230px;
+    border-radius: 190px;
+    position: absolute;
+    margin-left: 35rem;
+    margin-top: -26rem; 
+}
+
+.s10c{
+    font-size: 20px;
+    color: aliceblue;
+    position: absolute;
+    z-index: 5;
+    margin-left: 38rem;
+    margin-top: -11rem;
+}
+
 .speaker9{
     height: 500px;
     width: 400px;
     margin-top: -31.5rem;
     margin-left: 30rem;
+}
+
+.s11{
+    height: 230px;
+    border-radius: 190px;
+    position: absolute;
+    margin-left: 62rem;
+    margin-top: -26.5rem; 
+}
+
+.s11c{
+    font-size: 20px;
+    color: aliceblue;
+    position: absolute;
+    z-index: 5;
+    margin-left: 64rem;
+    margin-top: -11.5rem;
 }
 
 .speaker10{
@@ -395,6 +463,23 @@ a{
     margin-left: 57rem;
 }
 
+.s12{
+    height: 230px;
+    border-radius: 190px;
+    position: absolute;
+    margin-left: 8rem;
+    margin-top: -6.5rem; 
+}
+
+.s12c{
+    font-size: 20px;
+    color: aliceblue;
+    position: absolute;
+    z-index: 5;
+    margin-left: 11rem;
+    margin-top: 8rem;
+}
+
 .speaker12{
     height: 500px;
     width: 400px;
@@ -402,11 +487,45 @@ a{
     margin-left: 3rem;
 }
 
+.s13{
+    height: 230px;
+    border-radius: 190px;
+    position: absolute;
+    margin-left: 35rem;
+    margin-top: -25.5rem; 
+}
+
+.s13c{
+    font-size: 20px;
+    color: aliceblue;
+    position: absolute;
+    z-index: 5;
+    margin-left: 36rem;
+    margin-top: -10.5rem;
+}
+
 .speaker13{
     height: 500px;
     width: 400px;
     margin-top: -31.5rem;
     margin-left: 30rem;
+}
+
+.s14{
+    height: 230px;
+    border-radius: 190px;
+    position: absolute;
+    margin-left: 62rem;
+    margin-top: -25.5rem; 
+}
+
+.s14c{
+    font-size: 20px;
+    color: aliceblue;
+    position: absolute;
+    z-index: 5;
+    margin-left: 63rem;
+    margin-top: -10.5rem;
 }
 
 .speaker14{
