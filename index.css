@@ -8,6 +8,19 @@ body{
     overflow-x: hidden;
 }
 
+.RI{
+    font-family: "Impact";
+    font-size: 90px;
+    letter-spacing: 3px;
+    margin-top: 1rem;
+}
+
+.ns{
+    font-family: "Impact";
+    font-size: 72px;
+    letter-spacing: 3px;
+}
+
 ul {
     list-style-type: none;
     text-align:justify;
@@ -154,8 +167,8 @@ a{
 
 .container1{
     background-color: #0c0007;
-    height: 1200px;
-    width: 1350px;
+    height: 1750px;
+    width: 100%;
     margin-top: 20rem;
     display: inline-block;
 }
@@ -190,8 +203,16 @@ a{
     height: 500px;
     width: 400px;
     margin-top: -20rem;
-    margin-left: 29rem;
+    margin-left: 15rem;
 }
+
+.speaker11{
+    height: 500px;
+    width: 400px;
+    margin-top: -31.5rem;
+    margin-left: 45rem;
+}
+
 
 .speaker2{
     height: 500px;
@@ -229,6 +250,48 @@ a{
 }
 
 .speaker7{
+    height: 500px;
+    width: 400px;
+    margin-top: -31.5rem;
+    margin-left: 57rem;
+}
+
+.speaker8{
+    height: 500px;
+    width: 400px;
+    margin-top: -13rem;
+    margin-left: 3rem;
+}
+
+.speaker9{
+    height: 500px;
+    width: 400px;
+    margin-top: -31.5rem;
+    margin-left: 30rem;
+}
+
+.speaker10{
+    height: 500px;
+    width: 400px;
+    margin-top: -31.5rem;
+    margin-left: 57rem;
+}
+
+.speaker12{
+    height: 500px;
+    width: 400px;
+    margin-top: -13rem;
+    margin-left: 3rem;
+}
+
+.speaker13{
+    height: 500px;
+    width: 400px;
+    margin-top: -31.5rem;
+    margin-left: 30rem;
+}
+
+.speaker14{
     height: 500px;
     width: 400px;
     margin-top: -31.5rem;
