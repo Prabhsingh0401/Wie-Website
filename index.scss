@@ -1,13 +1,12 @@
 
 body{
     background: #cf5fa4;
-    background-image: url('./Assets/Images/image.png');
+    /*background-image: url('./Assets/Images/image.png');*/
     background-repeat: no-repeat;
     background-size: 55rem;
     background-position-x: 13rem;
     background-blend-mode: overlay;
     overflow-x: hidden;
-    overflow-y: hidden;
 }
 
 ul {
@@ -91,4 +90,27 @@ h2{
     margin-left: 20rem;
     height: 30rem;
     z-index: 999;
+}
+
+.theme{
+    height: 100%;
+    width: 90%;
+    margin-left: 5rem;
+}
+
+.theme1{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    background-color: antiquewhite;
+    z-index: 999;
+    margin-top: -20rem;
+    margin-left: 3rem;
+}
+
+svg{
+    height: 100%;
+    width: 100%;
+    margin-left: 1rem;
+    z-index: -1;
 }
