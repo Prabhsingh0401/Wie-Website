@@ -811,7 +811,8 @@ a{
     margin-left: 2rem;
     font-family: "sans-serif";
     color: #1A1A1A;
-    font-size: 15px;
+    font-size: 12px;
+    text-align: justify;
     font-weight: 100;
 }
 
