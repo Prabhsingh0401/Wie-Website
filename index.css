@@ -537,7 +537,7 @@ a{
 
 .tickets{
     background-color: #000;
-    height: 1930px;
+    height: 1400px;
     width: 100%;
     margin-top: 0rem;
     display: inline-block;
@@ -770,4 +770,127 @@ a{
     box-shadow: 10px 10px #fab7de;
     border: 2px solid #0F0C0E;
     background: #F3D1E5;
+}
+
+.footer{
+    width: 100%;
+    height: 300px;
+    background-color: #F3D1E5;
+}
+
+.contact{
+    margin-left: 2rem;
+    text-shadow: 5px 3px #ff966d;
+    font-family: "impact";
+    color: white;
+    font-size: 40px;
+    font-weight: 100;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #fdb3de;
+}
+
+.email{
+    margin-left: 2rem;
+    margin-top: 1rem;
+    height: 30px;
+}
+
+.phone{
+    margin-left: 2rem;
+    margin-top: 1rem;
+    height: 30px;
+}
+
+.location   {
+    margin-left: 2rem;
+    margin-top: 1rem;
+    height: 30px;
+}
+
+.aboutsection{
+    margin-left: 2rem;
+    font-family: "sans-serif";
+    color: #1A1A1A;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.emailid{
+    font-family: "sans-serif";
+    color: #1A1A1A;
+    position: absolute;
+    margin-top: -1.5rem;
+    margin-left: 5rem;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.phoneno{
+    font-family: "sans-serif";
+    color: #1A1A1A;
+    position: absolute;
+    margin-top: -1.8rem;
+    margin-left: 5rem;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.locate{
+    font-family: "sans-serif";
+    color: #1A1A1A;
+    position: absolute;
+    margin-top: -2.3rem;
+    margin-left: 5rem;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.inputfield{
+    background-color: #EEEEEE;
+    height: 470px;
+    border-radius: 30px;
+    box-shadow: 10px 10px #3a3a3a;
+    width: 500px;
+    margin-left: 50rem;
+    margin-top: -30rem;
+    position: absolute;
+    z-index: 1;
+}
+
+.ss{
+    margin-left: 2rem;
+    margin-top: 1rem;
+    font-family: "Impact";
+    color: #1A1A1A;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+.yourname{
+    margin-top: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-left: 4.5rem;
+    font-size: 15px;
+    height: 40px;
+    width: 400px;
+}
+
+.user{
+    height: 35px;
+    width: 35px;
+    position: absolute;
+    margin-top: 2.2rem;
+    margin-left: 1.5rem;
+}
+
+.message{
+    margin-top: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-left: 4.5rem;
+    font-size: 15px;
+    height: 200px;
+    width: 400px;
+    text-align: left;
 }
