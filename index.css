@@ -1,0 +1,142 @@
+
+body{
+    background: #cf5fa4;
+    /*background-image: url('./Assets/Images/image.png');*/
+    background-repeat: no-repeat;
+    background-size: 55rem;
+    background-position-x: 13rem;
+    background-blend-mode: overlay;
+    overflow-x: hidden;
+}
+
+ul {
+    list-style-type: none;
+    text-align:justify;
+    margin-left: 23rem;
+    padding-top: 30px;
+}
+
+li{
+    display: inline-block;
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: 'Impact';
+    letter-spacing: 2px;
+
+    
+    &:hover{
+        color: #0c0007;
+    }
+}
+
+.container{
+    padding: 0;
+    display: inline-block;
+}
+
+.child1 {
+    width: 50%;
+    float: left;
+}
+
+.child2{
+    padding-left: 10px;
+}
+
+.child3{
+    width: 180px;
+    height: 80px;
+    margin-left: 72rem;
+    margin-top: -6rem;
+    margin-right: 2rem;
+}
+
+.child1{
+    width: 120px;
+    height: 110px;
+    margin-left: 1rem;
+    margin-top: 0.6rem;
+    margin-right: 0rem;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Impact';
+    letter-spacing: 5px;
+    color: whitesmoke;
+    font-size: 100px;
+    margin-top: 1.75rem;
+    text-shadow: 5px 8px #a80068;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Impact';
+    letter-spacing: 5px;
+    color:#74064A;
+    font-size: 80px;
+    text-shadow: #a80068;
+    margin-top: -5rem;
+    text-shadow: 3px 5px #d30082;
+}
+
+.Wie{
+    margin-top: -13rem;
+    margin-left: 20rem;
+    height: 30rem;
+    z-index: 999;
+}
+
+.theme{
+    height: 100%;
+    width: 90%;
+    margin-left: 5rem;
+}
+
+.theme1{
+    height: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: antiquewhite;
+    z-index: 999;
+    position: relative;
+    margin-top: -19rem;
+    margin-left: 7rem;
+}
+
+.theme2{
+    height: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: antiquewhite;
+    z-index: 999;
+    position: relative;
+    margin-top: -28.5rem;
+    margin-left: 27rem;
+}
+
+.theme3{
+    height: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: antiquewhite;
+    z-index: 999;
+    position: relative;
+    margin-top: 4rem;
+    margin-left: 46rem;
+}
+
+svg{
+    height: 100%;
+    width: 100%;
+    margin-left: 1rem;
+    z-index: -1;
+}
