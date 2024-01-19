@@ -100,12 +100,38 @@ h2{
 
 .theme1{
     height: 100px;
-    width: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 100px;
     background-color: antiquewhite;
     z-index: 999;
-    margin-top: -20rem;
-    margin-left: 3rem;
+    position: relative;
+    margin-top: -19rem;
+    margin-left: 7rem;
+}
+
+.theme2{
+    height: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: antiquewhite;
+    z-index: 999;
+    position: relative;
+    margin-top: -28.5rem;
+    margin-left: 27rem;
+}
+
+.theme3{
+    height: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: antiquewhite;
+    z-index: 999;
+    position: relative;
+    margin-top: 4rem;
+    margin-left: 46rem;
 }
 
 svg{
