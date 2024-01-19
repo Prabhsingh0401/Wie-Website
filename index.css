@@ -169,7 +169,7 @@ a{
     background-color: #000;
     height: 1930px;
     width: 100%;
-    margin-top: 0rem;
+    margin-top: -7rem;
     display: inline-block;
     overflow: none;
 }
@@ -533,4 +533,54 @@ a{
     width: 400px;
     margin-top: -31.5rem;
     margin-left: 57rem;
+}
+
+.tickets{
+    background-color: #000;
+    height: 1930px;
+    width: 100%;
+    margin-top: 0rem;
+    display: inline-block;
+    overflow: none;
+}
+
+.ticketH{
+    color:#000;
+    font-family: "Impact";
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: white;
+    font-size: 150px;
+    margin-left: 3rem;
+    letter-spacing: 5px;
+}
+
+.ticket1{
+    background: linear-gradient(17deg, #FF7FE7 -7.32%, #D36BC0 2.65%, #9B538E 15.94%, #6D3E64 29.23%, #492E44 41.42%, #2F232C 53.6%, #1F1C1E 63.57%, #1A1A1A 72.43%, #FF56E9 103.45%);
+    height: 400px;
+    opacity: 0.5;
+    width: 300px;
+    border-radius: 50px;
+    margin-left: 3rem;
+}
+
+.ticket2{
+    background: linear-gradient(17deg, #FF7FE7 -7.32%, #D36BC0 2.65%, #9B538E 15.94%, #6D3E64 29.23%, #492E44 41.42%, #2F232C 53.6%, #1F1C1E 63.57%, #1A1A1A 72.43%, #FF56E9 103.45%);
+    height: 400px;
+    opacity: 0.5;
+    width: 300px;
+    position: absolute;
+    border-radius: 50px;
+    margin-left: 26rem;
+    margin-top: -25rem;
+}
+
+.tickp1{
+    color: white;
+    position: absolute;
+    z-index: 3;
+    font-size: 50px;
+    margin-left: 4.5rem;
+    margin-top: 4rem;
+    font-family:"Impact";
+    text-align: center;
 }
