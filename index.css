@@ -537,10 +537,8 @@ a{
 
 .tickets{
     background-color: #000;
-    height: 1400px;
     width: 100%;
-    margin-top: 0rem;
-    display: inline-block;
+
     overflow: none;
 }
 
@@ -558,11 +556,22 @@ a{
     background: linear-gradient(17deg, #FF7FE7 -7.32%, #D36BC0 2.65%, #9B538E 15.94%, #6D3E64 29.23%, #492E44 41.42%, #2F232C 53.6%, #1F1C1E 63.57%, #1A1A1A 72.43%, #FF56E9 103.45%);
     height: 400px;
     opacity: 0.5;
-    width: 300px;
-    border-radius: 50px;
+    width: 350px;
+    border-radius: 25px;
+
     margin-left: 3rem;
 }
+#b{
+    background: linear-gradient(17deg, #FF7FE7 -7.32%, #D36BC0 2.65%, #9B538E 15.94%, #6D3E64 29.23%, #492E44 41.42%, #2F232C 53.6%, #1F1C1E 63.57%, #1A1A1A 72.43%, #FF56E9 103.45%);
 
+    width: 350px;
+
+}
+#c{
+    background: linear-gradient(17deg, #FF7FE7 -7.32%, #D36BC0 2.65%, #9B538E 15.94%, #6D3E64 29.23%, #492E44 41.42%, #2F232C 53.6%, #1F1C1E 63.57%, #1A1A1A 72.43%, #FF56E9 103.45%);
+
+    width: 400px;
+}
 .ticket2{
     background: linear-gradient(17deg, #FF7FE7 -7.32%, #D36BC0 2.65%, #9B538E 15.94%, #6D3E64 29.23%, #492E44 41.42%, #2F232C 53.6%, #1F1C1E 63.57%, #1A1A1A 72.43%, #FF56E9 103.45%);
     height: 400px;
@@ -574,15 +583,16 @@ a{
     margin-top: -25rem;
 }
 
-.tickp1{
+#tickp1{
     color: white;
-    position: absolute;
-    z-index: 3;
     font-size: 50px;
-    margin-left: 4.5rem;
-    margin-top: 4rem;
     font-family:"Impact";
-    text-align: center;
+
+}
+#tickp2{
+    color: white;
+    font-size: 70px;
+    font-family:"Impact";
 }
 
 .buy1{
@@ -647,20 +657,39 @@ a{
     z-index: -0.5;
     width: 300px;
     margin-top: -22rem;
-    border-radius: 50px;
+    border-radius: 25px;
     margin-left: 66rem;
 }
+#IEEEM2t{
 
-.IEEEM1t{
+}
+#IEEEM1t{
     color: white;
-    position: absolute;
-    z-index: 4;
     font-size: 50px;
-    line-height: 60px;
-    margin-left: 70.5rem;
-    margin-top: -17rem;
     font-family:"Impact";
     text-align: center;
+    background-color: #8F638F;
+
+}
+.inn{
+    line-height: 60px;
+
+    height: 200px;
+
+    z-index: 4;
+
+
+}
+.inno{
+    line-height: 60px;
+width: 300px;
+    position: absolute;
+    margin-top: -350px;
+    padding: 60px;
+    right: -10px;
+
+    z-index: 3;
+    border: 8px solid #B9448D;
 }
 
 .IEEENM{
@@ -672,6 +701,12 @@ a{
     margin-top: 5rem;
     border-radius: 50px;
     margin-left: -5rem;
+}
+
+#new{
+    background: linear-gradient(17deg, #FF7FE7 -7.32%, #D36BC0 2.65%, #9B538E 15.94%, #6D3E64 29.23%, #492E44 41.42%, #2F232C 53.6%, #1F1C1E 63.57%, #1A1A1A 72.43%, #FF56E9 103.45%);
+    border-radius: 50px;
+    opacity: 90%;
 }
 
 .IEEENM1{
@@ -718,7 +753,18 @@ a{
     font-family:"Impact";
     text-align: center;
 }
+#buy{
 
+    font-family: "impact";
+    letter-spacing: 5px;
+    justify-content: center;
+    z-index: 9;
+    color:rgb(43, 43, 43);
+    box-shadow: 10px 10px #fab7de;
+    border: 2px solid #0F0C0E;
+    background: #F3D1E5;
+    width: 200px;
+}
 .buy3{
     height: 40px;
     width: 150px;  
