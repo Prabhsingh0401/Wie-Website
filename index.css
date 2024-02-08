@@ -1,5 +1,5 @@
 body{
-    background: #cf5fa4;
+    background: #000000;
     /*background-image: url('./Assets/Images/image.png');*/
     background-repeat: no-repeat;
     background-size: 55rem;
@@ -167,7 +167,7 @@ a{
 
 .container1{
     background-color: #000;
-    height: 1930px;
+    height: 2800px;
     width: 100%;
     margin-top: -7rem;
     display: inline-block;
@@ -191,8 +191,12 @@ a{
     z-index: 0;
 }
 
+#page1{
+    background-color: #eb44cc;
+}
+
 .speakergrad1{
-    position: relative;
+    position: absolute;
     height: 400px;
     width: 400px;
     margin-top: -10rem;
@@ -595,13 +599,13 @@ a{
 
 #tickp1{
     color: white;
-    font-size: 50px;
+    font-size: 40px;
     font-family:"Impact";
 
 }
 #tickp2{
     color: white;
-    font-size: 70px;
+    font-size: 50px;
     font-family:"Impact";
 }
 
@@ -829,8 +833,9 @@ width: 300px;
 }
 
 .footer{
-    width: 100%;
-    height: 300px;
+    width: 150%;
+    height: 375px;
+    margin-top: 20rem;
     background-color: #F3D1E5;
 }
 
