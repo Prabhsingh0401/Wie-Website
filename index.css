@@ -8,6 +8,31 @@ body{
     overflow-x: hidden;
 }
 
+.venue{
+    height: 800px;
+    margin-top: 2rem;
+}
+
+.img1{
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    margin-left: 7rem;
+    border-radius: 20px; 
+    box-shadow: 10px 10px 20px 1px rgb(36, 36, 36);   
+}
+
+.img2{
+    position: absolute;
+    z-index: 0;
+    height: 400px;
+    width: 400px;
+    margin-top: 10rem;
+    margin-left: 25rem;
+    border-radius: 20px; 
+    box-shadow: 10px 10px 20px 1px rgb(36, 36, 36);   
+}
+
 .RI{
     font-family: "Impact";
     font-size: 90px;
@@ -175,12 +200,15 @@ a{
 }
 
 .speakers{
+    color:#000;
+    font-family: "Impact";
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: white;
+    letter-spacing: 5px;
     text-align: center;
-    color: azure;
     margin-top: -20rem;
     font-family: "Impact";
-    font-size: 60px;
-    text-decoration: underline;
+    font-size: 100px;
 }
 
 .speakergrad{
@@ -551,9 +579,19 @@ a{
     font-family: "Impact";
     -webkit-text-stroke-width: 3px;
     -webkit-text-stroke-color: white;
-    font-size: 150px;
+    font-size: 120px;
     margin-left: 3rem;
     letter-spacing: 5px;
+}
+
+.ticketH1{
+    color:#888888;
+    font-family: "Impact";
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #888888;
+    font-size: 80px;
+    margin-left: 52rem;
+    letter-spacing: 2px;
 }
 
 #ticketH1{
